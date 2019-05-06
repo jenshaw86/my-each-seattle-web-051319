@@ -5,3 +5,6 @@ def my_each(arr)
     i = i + 1
   end
 end
+
+my_each(arr)
+  
