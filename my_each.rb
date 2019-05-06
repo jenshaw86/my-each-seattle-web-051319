@@ -4,6 +4,7 @@ def my_each(arr)
     yield arr[i]
     i = i + 1
   end
+  arr
 end
 
 collection = [1, 2, 3, 4]
