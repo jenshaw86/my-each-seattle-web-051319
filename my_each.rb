@@ -6,7 +6,7 @@ def my_each(arr)
   end
 end
 
-my_each(arr) do |item|
-  item
+my_each(arr) do |arr_item|
+  arr_item
 end
   
